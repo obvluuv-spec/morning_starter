@@ -21,14 +21,16 @@ No additional Python packages are required. The script uses Python's standard li
 
 ## Installation
 
-1. Clone the repository:```
+1. Clone the repository:
+ ```
    git clone https://github.com/obvluuv-spec/morning_starter.git
    ```
-2. Navigate to the project directory:```
+3. Navigate to the project directory:
+```
    cd YOUR-REPOSITORY
    ```
-3. Create an `application.txt` file in the project directory.
-4. Set the path to your preferred browser in the Python script.
+5. Create an `application.txt` file in the project directory.
+6. Set the path to your preferred browser in the Python script.
 
 ## Configuration
 
